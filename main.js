@@ -4,13 +4,13 @@ const { updateUserList, getUserPosition, removeUserFromList } = require('./lista
 require('./webServer.js');
 
 // Lista de canales
-const joinedChannels = ['alba_castello22','inmalive','fernandux22'];
+const joinedChannels = ['inmalive'];
 
 // Configuración del cliente de Twitch
 const client = new tmi.Client({
     identity: {
-        username: 'fernandux22', // Reemplaza con el nombre del bot
-        password: 'oauth:qal8qcaw4dblmg8mwril2ndhveiqty' // Genera el token desde https://twitchtokengenerator.com/
+        username: '', // Reemplaza con el nombre del bot
+        password: 'oauth:' // Genera el token desde https://twitchtokengenerator.com/
     },
     channels: joinedChannels,
 });
