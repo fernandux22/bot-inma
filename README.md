@@ -1,6 +1,6 @@
 # bot-alba
-Modo de uso
-* Como descargarlo e iniciarlo
+## Modo de uso
+### Como descargarlo e iniciarlo
 + Abre el terminal de comandos o CMD
 + Descargatelo con "git clone https://github.com/fernandux22/bot-inma"
 + Deberás abrirlo con el bloc de notas o algún editor para poner el token para poder conectarlo a twitch
@@ -9,12 +9,12 @@ Modo de uso
 + Escribe "cd bot-alba"
 + Inicialo con "node main.js"
 
-* Comandos a usar
+### Comandos a usar
 + !jugar para entrar en la lista
 + !posicion para ver la posicion donde estas o la que esta otro si pones su nombre
 + !salir para salirse de la lista
 
-* Uso de la página web
+### Uso de la página web
 + Para entrar escribe en navegador la ruta que te sale en el terminal una vez iniciado
   - generalmente es http://localhost:3000
 + A medida que vayan entrando jugadores apareceran en la lista con su rango (nada,sub,vip,mod)
