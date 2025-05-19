@@ -1,12 +1,13 @@
-# bot-alba
+# bot-inma
 ## Modo de uso
 ### Como descargarlo e iniciarlo
 + Abre el terminal de comandos o CMD
 + Descargatelo con "git clone https://github.com/fernandux22/bot-inma"
 + Deberás abrirlo con el bloc de notas o algún editor para poner el token para poder conectarlo a twitch
   Esto si lo haces conmigo lo ideal sería que no me enseñes el token por seguridad
++ descargar node de https://nodejs.org/es
 + Habría que instalar algunas librerias que se necesitan
-+ Escribe "cd bot-alba"
++ Escribe "cd bot-inma"
 + Inicialo con "node main.js"
 
 ### Comandos a usar
